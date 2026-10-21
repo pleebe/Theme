@@ -12,13 +12,13 @@
     },
     "require": {
         "php": "^8.1",
-        "foolz/package": "dev-master"
+        "foolz/package": "dev-php83-support"
     },
     "config": {
         "platform": { "php": "8.1.0" }
     },
 	"require-dev": {
-		"foolz/cache": "dev-php83-support"
+		"foolz/cache": "dev-master"
 	},
     "autoload": {
         "psr-4": {
