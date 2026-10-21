@@ -2,6 +2,7 @@
 
 namespace Foolz\Theme;
 
+#[\AllowDynamicProperties]
 class Theme extends \Foolz\Package\Package
 {
     protected static $autoloaded = [];

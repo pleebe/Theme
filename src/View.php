@@ -2,6 +2,7 @@
 
 namespace Foolz\Theme;
 
+#[\AllowDynamicProperties]
 class View
 {
     /**
